@@ -2,7 +2,7 @@
 # Overview
 
 This repository stores somes scripts for simulating examples from Parker et al. (2013; Evolution).
-Please see [this blog post](https://nadiah.org/ "nadiah.org") for details.
+Please see [this blog post](https://nadiah.org/2019/10/23/new-solutions-for-parker-sperm-competition-model/ "nadiah.org") for details.
 
 # License
 
